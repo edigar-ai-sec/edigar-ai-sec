@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Edigar Sardeiro**, an undergraduate in **Cyber Defense** focused on **Information Security**, **AI Security**, **Blue Team Operations** and **Security Automation**.
+I'm **Edigar Sardeiro**, an graduate in **Cyber Defense** focused on **Information Security**, **AI Security**, **Blue Team Operations** and **Security Automation**.
 
 I use this GitHub to publish practical cybersecurity labs, Python security automation scripts, AI security notes, and technical updates about the intersection between **Cybersecurity** and **Artificial Intelligence**.
 
