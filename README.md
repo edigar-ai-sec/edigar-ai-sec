@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Edigar Sardeiro
+# Hi there 👋
 
-🎓 Undergraduate in Cyber Defense focused on **Information Security**, **AI Security**, **Blue Team Operations** and **Security Automation**.
+I'm **Edigar Sardeiro**, an undergraduate in **Cyber Defense** focused on **Information Security**, **AI Security**, **Blue Team Operations** and **Security Automation**.
 
-I use this GitHub to document practical cybersecurity projects, publish security automation scripts, build hands-on labs, and explore the intersection between **Artificial Intelligence** and **Cyber Defense**.
+I use this GitHub to publish practical cybersecurity labs, Python security automation scripts, AI security notes, and technical updates about the intersection between **Cybersecurity** and **Artificial Intelligence**.
 
 ---
 
-## 🔐 Focus Areas
+## 🔐 Cybersecurity & AI Focus
 
 - Cyber Defense
 - Information Security
@@ -16,6 +16,32 @@ I use this GitHub to document practical cybersecurity projects, publish security
 - Vulnerability Analysis
 - Incident Response
 - Security Automation with Python
+- Defensive AI Applications
+- Prompt Security and LLM Security
+
+---
+
+## 🚀 Projects
+
+- 🔐 [cybersecurity-labs](https://github.com/edigar-ai-sec/cybersecurity-labs): Practical cybersecurity labs, notes and experiments.
+- 🐍 [python-security-automation](https://github.com/edigar-ai-sec/python-security-automation): Python scripts for security automation and analysis.
+- 🤖 [ai-security-notes](https://github.com/edigar-ai-sec/ai-security-notes): Notes and studies about AI applied to cybersecurity.
+
+---
+
+## 🧠 Security & AI Updates
+
+This section is dedicated to tracking and documenting topics related to cybersecurity and artificial intelligence.
+
+Current topics of interest:
+
+- AI applied to threat detection
+- Defensive security automation
+- LLM security risks
+- Prompt injection and prompt security
+- Blue Team workflows with AI
+- Vulnerability analysis and reporting
+- Incident response improvement with automation
 
 ---
 
@@ -27,16 +53,7 @@ I use this GitHub to document practical cybersecurity projects, publish security
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![AI Security](https://img.shields.io/badge/AI%20Security-6A5ACD?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 🚀 Current Projects
-
-| Project | Description |
-|---------|-------------|
-| [cybersecurity-labs](https://github.com/edigar-ai-sec/cybersecurity-labs) | Practical cybersecurity labs, notes and experiments. |
-| [python-security-automation](https://github.com/edigar-ai-sec/python-security-automation) | Python scripts for security automation and analysis. |
-| [ai-security-notes](https://github.com/edigar-ai-sec/ai-security-notes) | Notes and studies about AI applied to cybersecurity. |
+![Blue Team](https://img.shields.io/badge/Blue%20Team-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 ---
 
@@ -46,7 +63,8 @@ I use this GitHub to document practical cybersecurity projects, publish security
 - Develop practical labs focused on defense and detection
 - Create Python scripts for security automation
 - Study AI applied to cybersecurity
-- Document writeups, notes and technical experiments
+- Document technical notes, writeups and experiments
+- Track cybersecurity and AI security updates
 
 ---
 
